@@ -30,7 +30,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Project name</a>
+                    <a class="navbar-brand" href="#">Stephen Lane-Walsh</a>
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
@@ -39,7 +39,15 @@
                             <li class="{{ if eq $menu.URL $url }}active{{ end }}" ><a href="{{ $menu.URL }}">{{ $menu.Text }}</a></li>
                         {{ end }}
                     </ul>
-                    <form class="navbar-form navbar-right" action="{{.Opts.LoginAction}}" method="post">
+                    <div class="navbar-right">
+                        <a class="nav-icon" href="https://www.linkedin.com/pub/stephen-walsh/67/828/b37">
+                            <img src="{{.Opts.StaticAssetsURL}}img/linkedin.png" alt="LinkedIn" />
+                        </a>
+                        <a class="nav-icon" href="http://github.com/whobrokethebuild">
+                            <img src="{{.Opts.StaticAssetsURL}}img/github.png" alt="GitHub" />
+                        </a>
+                    </div>
+                    <!-- <form class="navbar-form navbar-right" action="{{.Opts.LoginAction}}" method="post">
                         <div class="form-group">
                             <input type="email" placeholder="Email" class="form-control" required>
                         </div>
@@ -49,9 +57,9 @@
                         <button type="submit" class="btn btn-primary">Sign In</button>
                         <span class="menu-text"> or </span>
                         <a href="/register" class="btn btn-success">Register</a>
-                    </form>
+                    </form> -->
                 </div>
             </div>
         </nav>
-        <div class="container">
+        <div class="content container">
 {{ end }}
