@@ -58,6 +58,7 @@ docker_spawn_worker() {
     docker run -d  \
         -v $SCRIPTPATH/static:/go/bin/static:ro \
         -v $SCRIPTPATH/templates:/go/bin/templates:ro \
+        -v $SCRIPTPATH/content:/go/bin/content:ro \
         --name $1 $WORKER_NAME
 }
 
