@@ -26,7 +26,7 @@
 
 ---
 
-### Experience
+### Work Experience
 
 **Jr. Web Developer** at [MyWebGrocer](http://mywebgrocer.com/)
 <span class="right">*2014 - Present*</span>
@@ -41,13 +41,13 @@
 
 ---
 
-### Personal Side Projects
+### Personal Experience
 
-Wrote an Operating System in x86 ASM, implemented several commands in 16bit real-mode.
+Wrote an Operating System named [ArcOS](https://github.com/WhoBrokeTheBuild/ArcOS) in x86 ASM which implemented several commands in 16bit real-mode.
 
 Wrote several itterations of a C++ library / game engine originally called [Arc](https://github.com/whobrokethebuild/Arc-2.0) and later named [Dusk](https://github.com/WhoBrokeTheBuild/Dusk). Integrated with OpenGL and Lua as well as including a host of helper functions and classes, with a large focus on performance.
 
-Wrote a Go static-site generator named [GoingUp](https://github.com/WhoBrokeTheBuild/goingup) that uses Markdown for content. I then used it to build my website.
+Wrote a Go static-site generator named [GoingUp](https://github.com/WhoBrokeTheBuild/goingup) that uses Markdown for content, which I then used it to build [this site](https://github.com/WhoBrokeTheBuild/stephenlw.com).
 
 ---
 
