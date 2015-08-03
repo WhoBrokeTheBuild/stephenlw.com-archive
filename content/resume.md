@@ -1,5 +1,7 @@
 # Stephen Lane-Walsh
 
+*Software Engineer, Server Administrator & Curious Developer*
+
 **Tel:** 413 884 5335<br>
 **Email:** sdl.slane@gmail.com<br>
 **GitHub:** <http://github.com/whobrokethebuild/><br>
@@ -45,18 +47,18 @@
 <span class="right">*2012*</span>
 
 **[BPA](http://www.bpa.org/)** State & Nationals - Various Awards
-<span class="right">* 2009 - 2012</span>
+<span class="right">*2009 - 2012*</span>
 
 **[SkillsUSA](http://www.skillsusa.org/)** State - Various Awards
-<span class="right">* 2009 - 2012</span>
+<span class="right">*2008 - 2012*</span>
 
 ---
 
 ### Programming Languages
 
-**Experienced:** Go, C/C++, PHP, HTML5/XHTML, CSS, JS, SQL (MySQL, SQLite)
+**Experienced:** Go, C/C++, PHP, HTML5/XHTML, CSS, JS, SQL (MySQL, MSSQL, SQLite)
 
-**Proficient:** C#, Java, Python, PIC Basic, x86 ASM, HLSL/GLSL, Bash, Batch/PowerShell, VB, AS3
+**Proficient:** C#, Java, Python, Arduino, PIC Basic, x86 ASM, HLSL/GLSL, Bash, Batch/PowerShell, VB, AS3
 
 ---
 
