@@ -12,12 +12,12 @@
 ### Education
 
 **Champlain College**, Burlington VT
-<span class="right">*August 2012 - Present*</span>
+<span class="right">*2012 - Present*</span>
 <br>
 <span class="indent"></span>Majoring in Computer Science & Innovation, with a minor in Game & Simulation Programming
 
 **Berkshire Community College**, Pittsfield, Massachusetts
-<span class="right">*Feburary 2010*</span>
+<span class="right">*2010*</span>
 
 **McCann Vocational Technical High School**, North Adams, Massachusetts
 <span class="right">*2008 - 2012*</span>
