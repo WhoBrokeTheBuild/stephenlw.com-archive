@@ -41,6 +41,14 @@
 
 ---
 
+### Personal Side Projects
+
+Wrote an Operating System in x86 ASM, implemented several commands in 16bit real-mode.
+
+Wrote several itterations of a C++ library / game engine called Arc. Integrated with OpenGL and Lua as well as including a host of helper functions and classes, with a large focus on performance
+
+---
+
 ### Awards & Certifications
 
 **[Cisco NetRiders](http://www.academynetriders.com/index.php)** USA & Canada - 18th Place
@@ -72,7 +80,7 @@
 
 ### Version Control, IDEs & Tools
 
-**Experienced:** Git, SVN, Komodo IDE, Visual Studio
+**Experienced:** Git, SVN, Komodo IDE, Visual Studio, Code::Blocks, Photoshop, GIMP, VirtualBox, VM Ware, Google Drive, Microsoft Office, Filezilla, WinSCP
 
 **Proficient:** Perforce, Mercurial, Fossil, NetBeans, Eclipse, IntelliJ IDEA
 
@@ -80,6 +88,8 @@
 
 ### Server Management / Operating Systems
 
-**Operating Systems:** Linux (RHEL/CentOS, Debian/Ubuntu, etc.), Windows, OS X
+**Operating Systems:** Linux (RHEL/CentOS, Debian/Ubuntu, etc.), Windows, Android, OS X, Cisco iOS
 
 **Experienced Managing:** Docker, Web (Apache/IIS), Database (MySQL/MSSQL), DNS, DHCP, Mail, Custom Applications
+
+Also experienced setting up a physical network, including the planning and installing of equipment.
