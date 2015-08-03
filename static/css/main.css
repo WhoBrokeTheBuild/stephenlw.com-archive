@@ -45,10 +45,12 @@
 }
 .content {
     min-height: 500px;
+    margin-bottom: 30px;
 }
 .copyright {
     text-align: center;
     font-size: 10px;
+    margin-bottom: 50px;
 }
 .right {
     float: right;
