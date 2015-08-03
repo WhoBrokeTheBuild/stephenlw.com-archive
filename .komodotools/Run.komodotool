@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "F5###F7", 
+  "name": "Run", 
+  "language": "JavaScript", 
+  "trigger_enabled": false, 
+  "value": [
+    "var partSvc   = Cc[\"@activestate.com/koPartService;1\"].getService(Ci.koIPartService);", 
+    "var projectDirectory = partSvc.currentProject.liveDirectory;", 
+    "ko.run.command(\"stephenlw.com.exe\", { runIn: \"command-output-window\", cwd: projectDirectory })"
+  ], 
+  "version": "1.0.12", 
+  "rank": 100, 
+  "async": 0, 
+  "type": "macro", 
+  "trigger": "trigger_postopen"
+}
