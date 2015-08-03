@@ -56,4 +56,11 @@
 .indent {
     display: inline-block;
     width: 30px;
+    max-width: 5%;
+}
+@media (max-width: 450px) {
+    .right {
+        float: none;
+        display: block;
+    }
 }
