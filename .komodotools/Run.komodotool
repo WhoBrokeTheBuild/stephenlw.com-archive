@@ -1,5 +1,5 @@
 {
-  "keyboard_shortcut": "F5###F7", 
+  "keyboard_shortcut": "F5", 
   "name": "Run", 
   "language": "JavaScript", 
   "trigger_enabled": false, 
